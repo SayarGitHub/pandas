@@ -1,0 +1,10 @@
+
+.ipynb_checkpoints/Corey_Schafer_pandas_Tutorial-checkpoint.ipynb
+.ipynb_checkpoints/Practice_Notebook-checkpoint.ipynb
+debug.log
+*.csv
+*.json
+*.xlsx
+*.tsv
+*.pdf
+*.txt
